@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @disqid
+- 👀 I’m interested in solidity, web3 coding, automation.
+- 🌱 I’m currently learning solidity, html, javascript.
+- 💞️ I’m looking to collaborate on solidity project.
+- 📫 How to reach me twitter : Disqid2
